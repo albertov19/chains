@@ -3321,9 +3321,9 @@
 }, {
   "name": "xylume-testnet",
   "icons": [{
-    "url": "ipfs://QmRk9t6g5otTX6XcQjvFwsfzn2KjZwbstptH9C7uG2kVdD",
-    "width": 500,
-    "height": 500,
+    "url": "ipfs://QmUweMnhb4wYtwv59gh4GSxhDy6AbnRntXiQRe4mFFazcF",
+    "width": 1024,
+    "height": 1024,
     "format": "png"
   }]
 }, {
@@ -3815,6 +3815,14 @@
     "format": "png"
   }]
 }, {
+  "name": "potos",
+  "icons": [{
+    "url": "ipfs://bafkreididbxq2gx64fctdjfdyu727hmjauoqpqqtdbwqg5ge4yu2mcrw7a",
+    "width": 1160,
+    "height": 1160,
+    "format": "png"
+  }]
+}, {
   "name": "astrasepolia",
   "icons": [{
     "url": "ipfs://QmQW8DuuyxjdLWAPq3V9zSfdAimaStptZ4gxZ3aEviAafc",
@@ -3829,6 +3837,14 @@
     "width": 250,
     "height": 249,
     "format": "jpg"
+  }]
+}, {
+  "name": "spld-testnet",
+  "icons": [{
+    "url": "ipfs://bafkreigdhkoqdntev2f4ixapfrcku74x4mjsgvebvlzdrjv5oadafrlpzm",
+    "width": 512,
+    "height": 512,
+    "format": "png"
   }]
 }, {
   "name": "miyou",
@@ -5247,6 +5263,14 @@
     "format": "png"
   }]
 }, {
+  "name": "splendor",
+  "icons": [{
+    "url": "ipfs://bafkreigdhkoqdntev2f4ixapfrcku74x4mjsgvebvlzdrjv5oadafrlpzm",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "satoshivm",
   "icons": [{
     "url": "ipfs://QmdXnQw9YwzEBZnciSe42MMwnH1SqhfY3FcVbseyM4k7Th",
@@ -5925,6 +5949,14 @@
     "width": 128,
     "height": 128,
     "format": "png"
+  }]
+}, {
+  "name": "lukso-testnet",
+  "icons": [{
+    "url": "ipfs://bafkreih5ws7esaru5k4crjekr3d27jbjmikjtxwswu7r34yofyzqywiadi",
+    "width": 512,
+    "height": 512,
+    "format": "svg"
   }]
 }, {
   "name": "nexis",
@@ -6660,6 +6692,14 @@
     "url": "ipfs://QmdiEBREiSP9TBHqxV8Ap3kehvBktBWFCpXs3mkC4e18zM",
     "width": 500,
     "height": 500,
+    "format": "png"
+  }]
+}, {
+  "name": "nom",
+  "icons": [{
+    "url": "ipfs://QmVfJBGe7JpKJhG8hrSMU42RxhCSQ3ga3NSArA9vEFqF4C",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -7489,10 +7529,10 @@
 }, {
   "name": "lukso",
   "icons": [{
-    "url": "ipfs://Qmeg9sFF5tAGi6MCx7YjtVHW6a23zqvHRK1xwzSdp9iE7z",
+    "url": "ipfs://bafkreid3bbfc4jgzcurebnn6vwjcp6gxwewqpjep4nouqkq4k4jlmsldpy",
     "width": 512,
     "height": 512,
-    "format": "png"
+    "format": "svg"
   }]
 }, {
   "name": "altb",
