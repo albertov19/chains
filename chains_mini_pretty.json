@@ -1845,16 +1845,16 @@
   "faucets": [],
   "infoURL": "https://prodax.io/"
 }, {
-  "name": "Monad Mainnet",
+  "name": "Monad",
   "chainId": 143,
   "shortName": "mon",
   "networkId": 143,
   "nativeCurrency": {
-    "name": "MON Token",
+    "name": "Monad",
     "symbol": "MON",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://rpc.monad.xyz"],
   "faucets": [],
   "infoURL": "https://monad.xyz"
 }, {
@@ -4978,6 +4978,32 @@
   "faucets": [],
   "infoURL": "https://janction.io"
 }, {
+  "name": "Jasmy Chain",
+  "chainId": 680,
+  "shortName": "jasmychain",
+  "networkId": 680,
+  "nativeCurrency": {
+    "name": "JasmyCoin",
+    "symbol": "JASMY",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.jasmychain.io", "wss://rpc.jasmychain.io"],
+  "faucets": [],
+  "infoURL": "https://jasmychain.io"
+}, {
+  "name": "Jasmy Chain Testnet",
+  "chainId": 681,
+  "shortName": "jasmychain_testnet",
+  "networkId": 681,
+  "nativeCurrency": {
+    "name": "JasmyCoin",
+    "symbol": "JASMY",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc_testnet.jasmychain.io", "wss://rpc_testnet.jasmychain.io"],
+  "faucets": [],
+  "infoURL": "https://jasmychain.io"
+}, {
   "name": "Karura Network",
   "chainId": 686,
   "shortName": "kar",
@@ -7340,7 +7366,7 @@
     "symbol": "ARC",
     "decimals": 18
   },
-  "rpc": ["https://rpc-main-1.archiechain.io"],
+  "rpc": [],
   "faucets": [],
   "infoURL": "https://archiechain.io/"
 }, {
@@ -7353,8 +7379,8 @@
     "symbol": "ARC",
     "decimals": 18
   },
-  "rpc": ["https://rpc-test-1.archiechain.io"],
-  "faucets": ["https://faucet.archiechain.io"],
+  "rpc": [],
+  "faucets": [],
   "infoURL": "https://archiechain.io/"
 }, {
   "name": "OM Platform Mainnet",
@@ -12440,6 +12466,19 @@
   "faucets": [],
   "infoURL": "https://pikaminter.com"
 }, {
+  "name": "Denergy Testnet",
+  "chainId": 4442,
+  "shortName": "den-testnet",
+  "networkId": 4442,
+  "nativeCurrency": {
+    "name": "WATT",
+    "symbol": "WATT",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.denergytestnet.com/"],
+  "faucets": [],
+  "infoURL": "https://d.energy/"
+}, {
   "name": "Htmlcoin Mainnet",
   "chainId": 4444,
   "shortName": "html",
@@ -13411,9 +13450,9 @@
     "symbol": "TANGO",
     "decimals": 18
   },
-  "rpc": ["https://dancelight-2001.tanssi-api.network", "wss://dancelight-2001.tanssi-api.network"],
+  "rpc": ["https://services.tanssi-testnet.network/dancelight-2001", "wss://services.tanssi-testnet.network/dancelight-2001"],
   "faucets": ["https://apps.tanssi.network/demo"],
-  "infoURL": "https://docs.tanssi.network/builders/tanssi-network/networks/dancebox/demo-evm-containerchain"
+  "infoURL": "https://docs.tanssi.network/builders/tanssi-network/testnet/demo-evm-network/"
 }, {
   "name": "Syscoin Tanenbaum Testnet",
   "chainId": 5700,
@@ -21995,6 +22034,19 @@
   "faucets": [],
   "infoURL": "https://cosmicchain.site"
 }, {
+  "name": "Henesys",
+  "chainId": 68414,
+  "shortName": "nxpc",
+  "networkId": 68414,
+  "nativeCurrency": {
+    "name": "NEXPACE",
+    "symbol": "NXPC",
+    "decimals": 18
+  },
+  "rpc": ["https://henesys-rpc.msu.io"],
+  "faucets": [],
+  "infoURL": "https://nexpace.io"
+}, {
   "name": "DM2 Verse Mainnet",
   "chainId": 68770,
   "shortName": "dm2",
@@ -24348,7 +24400,20 @@
   "faucets": ["https://testnet.mitosis.org/faucet"],
   "infoURL": "https://mitosis.org"
 }, {
-  "name": "Etherlink Testnet",
+  "name": "Etherlink Shadownet Testnet",
+  "chainId": 127823,
+  "shortName": "etlst",
+  "networkId": 127823,
+  "nativeCurrency": {
+    "name": "tez",
+    "symbol": "XTZ",
+    "decimals": 18
+  },
+  "rpc": ["https://node.shadownet.etherlink.com"],
+  "faucets": ["https://faucet.etherlink.com"],
+  "infoURL": "https://etherlink.com"
+}, {
+  "name": "Etherlink Ghostnet Testnet",
   "chainId": 128123,
   "shortName": "etlt",
   "networkId": 128123,
@@ -25894,6 +25959,19 @@
   "rpc": ["https://dgs-rpc.digitsoul.co.th"],
   "faucets": [],
   "infoURL": ""
+}, {
+  "name": "Denergy Network",
+  "chainId": 369369,
+  "shortName": "den-mainnet",
+  "networkId": 369369,
+  "nativeCurrency": {
+    "name": "WATT",
+    "symbol": "WATT",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.d.energy/"],
+  "faucets": [],
+  "infoURL": "https://d.energy/"
 }, {
   "name": "HAPchain Testnet",
   "chainId": 373737,
@@ -28079,6 +28157,19 @@
   "faucets": [],
   "infoURL": "https://docs.zero.network"
 }, {
+  "name": "Arc Network Testnet",
+  "chainId": 5042002,
+  "shortName": "arc-testnet",
+  "networkId": 5042002,
+  "nativeCurrency": {
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.testnet.arc.network", "wss://rpc.testnet.arc.network", "https://rpc.quicknode.testnet.arc.network", "wss://rpc.quicknode.testnet.arc.network", "https://rpc.blockdaemon.testnet.arc.network"],
+  "faucets": ["https://faucet.circle.com/"],
+  "infoURL": "https://arc.network"
+}, {
   "name": "NumBlock Chain",
   "chainId": 5112023,
   "shortName": "NUMB",
@@ -28130,6 +28221,19 @@
   "rpc": ["https://rpc.ankr.com/electroneum_testnet"],
   "faucets": ["https://faucet.electroneum.com"],
   "infoURL": "https://electroneum.com"
+}, {
+  "name": "Reactive Lasna",
+  "chainId": 5318007,
+  "shortName": "lreact",
+  "networkId": 5318007,
+  "nativeCurrency": {
+    "name": "Lasna React",
+    "symbol": "lREACT",
+    "decimals": 18
+  },
+  "rpc": ["https://lasna-rpc.rnk.dev"],
+  "faucets": ["https://dev.reactive.network/reactive-mainnet#get-testnet-react"],
+  "infoURL": "https://reactive.network"
 }, {
   "name": "Reactive Kopli",
   "chainId": 5318008,
@@ -28894,7 +28998,7 @@
     "symbol": "QKI",
     "decimals": 18
   },
-  "rpc": ["https://hz.rpc.qkiscan.cn", "https://jp.rpc.qkiscan.io", "https://rpc1.qkiscan.io", "https://rpc2.qkiscan.io", "https://rpc3.qkiscan.io"],
+  "rpc": ["https://rpc1.qkirpc.org", "https://rpc2.qkirpc.org", "https://rpc3.qkirpc.org", "https://rpc1.qkiscan.io", "https://rpc2.qkiscan.io", "https://rpc3.qkiscan.io"],
   "faucets": [],
   "infoURL": "https://quarkblockchain.org/"
 }, {

@@ -1761,7 +1761,7 @@
 }, {
   "name": "reactive",
   "icons": [{
-    "url": "ipfs://bafkreih2sitkbspgnboiwga7k4zwz22h4u3qqpswxdr3miqtdwuovw2cte",
+    "url": "ipfs://QmaBqYemL6VG5kDEMZqtJZhh6kLn3XqMyxkDpChkPttJ6B",
     "width": 320,
     "height": 320,
     "format": "png"
@@ -2044,6 +2044,14 @@
     "url": "ipfs://QmPV6ASrQDEkEW3g3ni7p2rJMPeciRLpEpvrAc1QfzVkx9",
     "width": 640,
     "height": 640,
+    "format": "png"
+  }]
+}, {
+  "name": "arcnetwork",
+  "icons": [{
+    "url": "ipfs://bafybeiddgoql2bcngs3bcuxobz5hkjjbhvwxvqrdagqytdnfmmawnmfhta",
+    "width": 1000,
+    "height": 1000,
     "format": "png"
   }]
 }, {
@@ -3364,6 +3372,14 @@
     "url": "ipfs://QmWeJdWk2HiZhcCtecHyzxm7DBH5KDH2ERj9ZiqxmxgUto",
     "width": 1172,
     "height": 1172,
+    "format": "png"
+  }]
+}, {
+  "name": "denergy",
+  "icons": [{
+    "url": "ipfs://QmdZMYDb12zN4ErNoSob7yotqqQBMobCDbhumMY3DV1kG1",
+    "width": 512,
+    "height": 503,
     "format": "png"
   }]
 }, {
@@ -8812,6 +8828,14 @@
     "url": "ipfs://QmeDfLgA5heAAXsU8kf5J23Y8up4uHN27uRBEAJFPMJEu7",
     "width": 48,
     "height": 48,
+    "format": "png"
+  }]
+}, {
+  "name": "nexpace",
+  "icons": [{
+    "url": "ipfs://bafkreiacfidhalwauvrdvlgtn2zs3ijdvqh56audxwoljxuaoqn3vmq5vq",
+    "width": 256,
+    "height": 256,
     "format": "png"
   }]
 }, {
