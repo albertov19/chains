@@ -545,9 +545,9 @@
 }, {
   "name": "jasmychain",
   "icons": [{
-    "url": "ipfs://bafkreihxk2mlsh526zjn7rp4yju3yqrnvg6dgageqzz3sele2lihrm37fa",
-    "width": 512,
-    "height": 512,
+    "url": "ipfs://bafkreiglzuiafx3ci2thfff4fnmadb6ajzxsqs3wrwrdxtjrwjmpo7zesy",
+    "width": 125,
+    "height": 125,
     "format": "svg"
   }]
 }, {
@@ -3004,6 +3004,14 @@
     "url": "ipfs://bafkreif3xfpoojvgf23cf6kxx7q3pgbeqtkiiv3lro23i4lemb3wiodmq4",
     "width": 256,
     "height": 256,
+    "format": "png"
+  }]
+}, {
+  "name": "GRAMZ",
+  "icons": [{
+    "url": "ipfs://bafybeih7p2zkgxc6i6ygihz556y22aruacwybtfaif7554hqnd2a745uce",
+    "width": 500,
+    "height": 500,
     "format": "png"
   }]
 }, {
@@ -6006,9 +6014,9 @@
 }, {
   "name": "datahaven-testnet",
   "icons": [{
-    "url": "ipfs://bafkreidfkhqgkkmkhoalf5quh7hzfgtthp6rzn25rbnilghhzhdiotpqne",
-    "width": 560,
-    "height": 560,
+    "url": "ipfs://bafkreifwuxfoxoas44ylvk5mtgf6l5vdl46oivpt7mvuvequmreerhekgy",
+    "width": 510,
+    "height": 510,
     "format": "png"
   }]
 }, {
@@ -8260,6 +8268,14 @@
     "format": "png"
   }]
 }, {
+  "name": "alpen",
+  "icons": [{
+    "url": "ipfs://bafkreicl3lvyl3epqlbaludrgmndzfufzip5wmq5dvz6ahhg44d54abvou",
+    "width": 460,
+    "height": 460,
+    "format": "png"
+  }]
+}, {
   "name": "sanrchain",
   "icons": [{
     "url": "ipfs://QmPLMg5mYD8XRknvYbDkD2x7FXxYan7MPTeUWZC2CihwDM",
@@ -8649,6 +8665,14 @@
     "url": "ipfs://bafkreihy2skjw4kedeokhsqlyipgy2gm63hfsxmenfyldejad5au4wdrjy",
     "width": 200,
     "height": 200,
+    "format": "png"
+  }]
+}, {
+  "name": "dilithium3",
+  "icons": [{
+    "url": "ipfs://QmUaxaAaK6Y1QVtd7vEpXCoVXqNgPhKkgVJiVt6caw3Edj",
+    "width": 500,
+    "height": 500,
     "format": "png"
   }]
 }, {
